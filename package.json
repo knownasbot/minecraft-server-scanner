@@ -1,0 +1,13 @@
+{
+  "name": "minecraft-server-scanner",
+  "version": "1.0.0",
+  "description": "A Minecraft servers scanner",
+  "main": "index.js",
+  "author": "knownasbot",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "cli": "^1.0.1",
+    "minecraft-server-util": "^5.3.0"
+  }
+}
